@@ -1,0 +1,21 @@
+.movie-details {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .cast-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .cast-member {
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .cast-member img {
+    width: 100px; /* Adjust size as needed */
+    height: auto;
+    border-radius: 50%; /* Optional: for circular images */
+  }
